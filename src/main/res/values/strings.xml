@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">INPTbank</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="show_nearby_agency">Show nearby agency</string>
+    <string name="textview">TextView</string>
+    <string name="check_my_balance">check my balance</string>
+</resources>
